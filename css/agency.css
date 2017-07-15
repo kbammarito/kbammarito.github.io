@@ -254,7 +254,7 @@ header .intro-text .intro-heading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 1em;
+  font-size: 3em;
   line-height: 50px;
   margin-bottom: 25px;
 }
@@ -274,7 +274,7 @@ header .intro-text .intro-heading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 4em;
+    font-size: 3.5em;
     line-height: 75px;
     margin-bottom: 0px;
   }
