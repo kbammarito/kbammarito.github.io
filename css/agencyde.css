@@ -177,6 +177,9 @@ fieldset[disabled] .btn-xl.active {
   color: white;
   font-size: 12px;
 }
+.navbar-custom .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
   background-color: #787384;
