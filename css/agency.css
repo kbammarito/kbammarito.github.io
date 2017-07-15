@@ -359,6 +359,7 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-caption h4 {
   text-transform: none;
   margin: 0;
+  font-size: 3em;
 }
 #portfolio .portfolio-item .portfolio-caption p {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
