@@ -159,7 +159,7 @@ fieldset[disabled] .btn-xl.active {
   color: #fff;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, cursive;
   text-transform: uppercase;
-  padding: 18.5px 15px 20.5px 40px;
+  padding: 18.5px 15px 20.5px 20px;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
