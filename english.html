@@ -400,6 +400,13 @@
     </aside>
  -->
 
+ <form id="contactform" action="https://formspree.io/your@email.com" method="POST">
+    <input type="text" name="name" placeholder="Your name">
+    <input type="email" name="email" placeholder="Your email">
+    <textarea name="message" placeholder="Your message"></textarea>
+    <input type="submit" value="Send">
+</form>
+
     <!-- Contact Section -->
     <section id="contact">
         <div class="container-fluid">
@@ -437,9 +444,15 @@
                             </div>
                             <div class="clearfix"></div>
                             <div class="col-lg-12 text-center">
-                                <div id="success"></div>
+
+                            <div>
+                                <input type="submit" id="submit" name="submit" class="btn btn-xl" value="Message"></input>
+                            </div>
+
+<!--                                 <div id="success"></div>
                                 <br><br>
-                                <button type="submit" class="btn btn-xl">Send Message</button>
+                                <input type="submit" value="okay    ">
+                                <button type="submit" class="btn btn-xl" value="Send">Send Message</button> -->
                             </div>
                         </div>
                     </form>
