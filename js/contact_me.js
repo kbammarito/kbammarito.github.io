@@ -1,5 +1,5 @@
 // Contact Form Scripts
-$(function() {
+
   $(document).ready(function(){
     $("#contactForm").submit(function(event){
       event.preventDefault();
@@ -18,7 +18,6 @@ $(function() {
       });
     });
   });
-});
 
 // $(function() {
 
